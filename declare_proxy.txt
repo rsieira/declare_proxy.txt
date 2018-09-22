@@ -1,2 +1,0 @@
-declare -x http_proxy="http://172.16.254.254:3128/"
-declare -x https_proxy="http://172.16.254.254:3128/"
